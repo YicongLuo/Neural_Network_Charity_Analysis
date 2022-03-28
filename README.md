@@ -26,7 +26,7 @@ First hidden layer is 80, second hidden layer is 30.Because 40 feature columns a
 #### Were you able to achieve the target model performance?
 No, the result is 75%, but my model is 72.83%
 [3](3.png) 
-What steps did you take to try and increase model performance?
+#### What steps did you take to try and increase model performance?
 - The first test is dropping an extra feature might improve performance. The feature chosen was from the column "SPECIAL_CONSIDERATION". After re-running  after the adjustment, the model is no significant difference.
 - The next test is adding more neurons to the first and second hidden layer. Specifically, 20 extra neurons were added to each, to 100 and 50 neurons to the The model is aslo no significant difference.
 [4](4.png) 
